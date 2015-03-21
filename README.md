@@ -13,3 +13,5 @@ readme告诉别人如何使用你的软件，是项目的门面，一般包括�
 then you need to be careful。
 
 write from test by amm
+
+ok go on searching.
