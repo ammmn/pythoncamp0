@@ -11,3 +11,5 @@ readme告诉别人如何使用你的软件，是项目的门面，一般包括�
 ## hope every thing is ok this time.
 
 then you need to be careful。
+
+write from test by amm
