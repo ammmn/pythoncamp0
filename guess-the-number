@@ -1,0 +1,13 @@
+3.26. 昨天用将近4小时时间来解决git配置以及lecture学习，目前对于guess the number 仍没有完全掌握，所以只能先写一点。能力有限，
+今天的剩余时间仍会拿来学习课程，争取在今天结束时写出教程。
+
+
+# Guess the number!
+# By amm zhou
+
+import math
+import random
+import simplegui
+
+def new game setter
+def range
